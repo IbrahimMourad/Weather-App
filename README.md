@@ -1,8 +1,9 @@
 # Weather-App
 Python GUI Weather APP
 
-using:
-Python 3.7
-Tkinter
-requests
-Pillow
+using:<br/>
+Python 3.7 <br/>
+Tkinter<br/>
+requests<br/>
+Pillow<br/>
+openweathermap API
